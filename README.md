@@ -1,3 +1,6 @@
+## Preview
+![Calculator-ui](calculator-ui.png)
+
 # Scientific Calculator (GUI) 🧮
 
 A functional desktop scientific calculator built with **C++** and the **Qt 6 Framework**. This project focuses on event-driven programming and creating a clean, responsive user interface.
